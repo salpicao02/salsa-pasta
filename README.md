@@ -1,9 +1,14 @@
-# salsa-pasta
-BOM DIA!!!!
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+# MUITO BOM DIA!!😉
+*Meu nome é João Vitor Mesquita Rodrigues*
 
-AMO YUNG LIXO
+-Estou estudando na Alura
 
-![](https://img.quizur.com/f/img63269d5111f644.64427831.jpg?lastEdited=1663475048?o=capa)
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+# Você pode me encontrar em:📍
+
+00001092440501sp@al.educacao.sp.gov.br
+
+![](https://i.gifer.com/origin/a6/a61face0a3df0132c3abfea97a5a52b4_w200.gif)
